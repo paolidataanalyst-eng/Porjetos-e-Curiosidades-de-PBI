@@ -1,0 +1,21 @@
+•	Parâmetros de Campo
+Permite que demos aos usuários a possibilidade de executar torca de dados no mesmos visual –
+Ir em modelagem parâmetro de campo, colocar o tirulo e depois quas as medidas para executar aquela torca. Dai ele acrescenta as métricas selecionadas e os parâmetros.
+
+
+ 
+
+Ai ao invés de criar as métricas de 1 deles colocar a metica do parâmetro que dai vai mudando.
+
+Alem de usar a mertcia como parâmetro pode usar o eixo ou seja tem o faturamento por recepcionistas e por convenio dai executar esta troca.
+Passos para parâmetro de campo
+
+No exemplo do meu projeto vou gerar a visão 1 trocando a visão de faturamento de convenio para faturamento por recepcionista 
+1.	Ir em modelagem Novo parâmetro – Parametro de campo
+2.	Escolher o Nome que no caso sera métrica
+3.	Escolher as medidas que serão feitas as torcas no caso, fatuamento e qtde de itens
+4.	Deixar marcado o segmentador
+5.	Criar
+6.	Ir no gráfico e em vez de por a medida por exemplo de fatuamento colocar a métrica do parâmetro criada
+
+ 
