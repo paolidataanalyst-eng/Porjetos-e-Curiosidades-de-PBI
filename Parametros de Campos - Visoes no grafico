@@ -19,3 +19,11 @@ No exemplo do meu projeto vou gerar a visão 1 trocando a visão de faturamento 
 6.	Ir no gráfico e em vez de por a medida por exemplo de fatuamento colocar a métrica do parâmetro criada
 
  
+Exemplo 2. Alterar ao onves das métricas os eixos ou seja verificar faturamento por convenio e por recepcionista
+
+1.	Colcoar o gráfico com a visão, no meu caso quero visão de fatramento por convenio e repecionista
+2.	Ir em modelagem
+3.	Novo parâmetro de campo
+4.	Colocar o nome -no meu vai coluna
+5.	Colocar ao invés de métrica colocar as colunas que quero no meu caso recepcionista e voncvenio
+6.	Torcar o euxo y em ves 
